@@ -1,7 +1,7 @@
 # revivify-code
   <p>So for this project my goal is to update and improve existing code while maintaining the current layout.</p>
 
-<h2>Step 1<h2>
+<h2>Step 1</h2>
   <p>First im going to start at the top by updating the title of the page.</p>
   
 <h2>Step 2</h2>
