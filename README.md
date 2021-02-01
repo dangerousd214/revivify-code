@@ -14,5 +14,5 @@
   <p>I noticed a lot of unnecessary CSS and condensed them and I noticed i missed some HTML tags that could be changed so I fixed them.</p> 
   
 <h2>Step 5</h2>
-  <p>Now I'm going to hand over to someone for some peer review</p>
+  <p>Now I'm going to hand it over to someone for some peer review</p>
   
